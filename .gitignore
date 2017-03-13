@@ -1,1 +1,4 @@
 .DS_Store
+Vendor/autoload.php
+Vendor/composer/
+composer.lock
