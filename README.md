@@ -2,6 +2,8 @@
 
 This is a plugin for CakePHP to minify the HTML output.
 
+[![Build Status](https://travis-ci.org/w1zardhead/cakephp-minifyhtml-plugin.svg?branch=master)](https://travis-ci.org/w1zardhead/cakephp-minifyhtml-plugin)
+
 ### Requirements:
 
 * PHP Version: 5.2+
