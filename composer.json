@@ -1,0 +1,11 @@
+{
+    "name": "w1zardhead/cakephp-minifyhtml-plugin",
+    "description": "CakePHP Minify Html Helper",
+    "authors": [
+        {
+            "name": "w1zardhead",
+            "email": "stakahashi@elit.jp"
+        }
+    ],
+    "require": {},
+}
